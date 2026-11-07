@@ -1,3 +1,5 @@
+> **Merged into [preflight-agent](https://github.com/jasveerai88/preflight-agent)** — this tool now ships as part of the preflight-agent suite: same checks, byte-identical engine, plus one combined `scan` across all five tools. This repo stays public for existing links; development continues there. Install the suite: `pipx install preflight-agent`
+
 # fleet-audit — Subagent Fleet Auditor
 
 **Your agents are routed by their descriptions — so audit the descriptions, before runtime misroutes the work.**
